@@ -1,0 +1,2 @@
+# ReadFromConsole
+first project
